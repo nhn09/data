@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "618157780f9ee9918467b367",
+    "index": 0,
+    "When": "June 14-16, 2022",
+    "Where": "Washington, DC",
+    "name": "Mental Health America",
+    "about": "The year’s Mental Health America conference asks the question: 'Is mental health in the U.S. fit for the future?'\r\n",
+    "Price": "$525–$700"
+  },
+  {
+    "_id": "61815778269417e503a716a3",
+    "index": 1,
+    "When": "June 14-16, 2022",
+    "Where": "Orlando, FL",
+    "name": "American Mental Health Counselors Association",
+    "about": "This conference, held by the American Mental Health Counselors Association (AMHCA), is geared toward people in the mental health industry, including students and professionals.\r\n",
+    "Price": "$299–$549"
+  },
+  {
+    "_id": "618157788bc2f813b74df290",
+    "index": 2,
+    "When": "June 14-16, 2022",
+    "Where": "Washington, DC",
+    "name": "Correctional Mental Health Conference",
+    "about": "Self-proclaimed premier event in correctional mental healthcare, this two-day conference will focus on the unique needs of mental health in corrections. \r\n",
+    "Price": "$525–$700"
+  },
+  {
+    "_id": "61815778ebe610785bd1a9b2",
+    "index": 3,
+    "When": "June 27-30, 2022",
+    "Where": "New Orleans, LA",
+    "name": "NAMI National Convention",
+    "about": "Every year, the National Alliance on Mental Illness (NAMI) holds their national convention to help spread the word that recovery is possible..\r\n",
+    "Price": "$160–$385"
+  }
+]
