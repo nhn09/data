@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "618157780f9ee9918467b367",
+    "index": 0,
+    "name": "Obsessive Compulsive Disorder",
+    "about": "Raising mental health awareness can help you to understand your symptoms, find professional treatment, and, perhaps most importantly, break the mental health stigma that leaves so many people suffering in secret.\r\n",
+    "image": "./images/im (1).jpg",
+    "tag": "Discussion"
+  },
+  {
+    "_id": "61815778269417e503a716a3",
+    "index": 1,
+    "name": "Anxiety",
+    "about": "Mental illnesses affect 19% of the adult population, 46% of teenagers and 13% of children each year. People struggling with their mental health may be in your family, live next door, teach your children, work in the next cubicle.\r\n",
+    "image": "./images/im (2).jpg",
+    "tag": "Session"
+  },
+  {
+    "_id": "618157788bc2f813b74df290",
+    "index": 2,
+    "name": "Eating Disorders",
+    "about": "A mental illness is a physical illness of the brain that causes disturbances in thinking, behavior, energy or emotion that make it difficult to cope with the ordinary demands of life.\r\n",
+    "image": "./images/im (3).jpg",
+    "tag": "Spritual"
+  },
+  {
+    "_id": "61815778ebe610785bd1a9b2",
+    "index": 3,
+    "name": "Mood Disorders",
+    "about": "More than 18% of adults each year struggle with some type of anxiety disorder, including post-traumatic stress disorder (PTSD), obsessive-compulsive disorder (OCD), panic disorder (panic attacks), generalized anxiety disorder and specific phobias.\r\n",
+    "image": "./images/im (4).jpg",
+    "tag": "Counselling"
+  },
+  {
+    "_id": "61815778b343249dd87738cd",
+    "index": 4,
+    "name": "Schizophrenia",
+    "about": "Showing individuals respect and acceptance removes a significant barrier to successfully coping with their illness. Having people see you as an individual and not as your illness can make the biggest difference for someone who is struggling with their mental health.\r\n",
+    "image": "./images/im (5).jpg",
+    "tag": "Spritual"
+  },
+  {
+    "_id": "61815778fc059d97b1bf4331",
+    "index": 5,
+    "name": "Addictions",
+    "about": "September is National Suicide Prevention Month, dedicated to supporting and connecting with those who’ve been impacted by a death by suicide or have suicidal thoughts as well as creating greater awareness about suicide prevention. \r\n",
+    "image": "./images/im (6).jpg",
+    "tag": "Conference"
+  },
+  {
+    "_id": "618157784e7c5c04e48da6f4",
+    "index": 6,
+    "name": "Bipolar Disorder",
+    "about": "Advocating within our circles of influence helps ensure these individuals have the same rights and opportunities as other members of your school and community.\r\n",
+    "image": "./images/im (7).jpg",
+    "tag": "Spritual"
+  },
+  {
+    "_id": "61815778f153cb496f5721b5",
+    "index": 7,
+    "name": "Physical Violence",
+    "about": "October is Depression Awareness Month With over 300 million experiencing depression worldwide, it is one of the most common mental health conditions that exists. Depression affects people of all ages, ethnicity, race, gender and income levels. \r\n",
+    "image": "./images/im (8).jpg",
+    "tag": "Seminer"
+  },
+  {
+    "_id": "61815778d976736ffb057fb1",
+    "index": 8,
+    "name": "Self Harm",
+    "about": "Advocating within our circles of influence helps ensure these individuals have the same rights and opportunities as other members of your school and community.\r\n",
+    "image": "./images/im (3).jpg",
+    "tag": "Spritual"
+  }
+]
